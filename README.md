@@ -7,17 +7,14 @@
 
 
 ### Organizing Team
-- George Mias (EL) <br>
-- Jeremy Prokop (GR) <br>
-- Arjun Krishnan (EL) <br>
-- Bin Chen (GR) <br>
-- Carlo Piermarocchi (EL) <br>
-- Janani Ravi (EL) <br>
-- ...
-- ...
+| **East Lansing** | **Grand Rapids** |
+|:------------- |:------------- |
+| George Mias | Jeremy Prokop  |
+| Arjun Krishnan | Bin Chen |
+| Janani Ravi | Keith English |
+| Carlo Piermarocchi | ... |
 
 ### Sponsors
-
 
 
 ### Support or Contact
