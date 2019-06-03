@@ -5,8 +5,10 @@
 - [Tentative Schedule](https://docs.google.com/document/d/1QkpOu86Mk-DqaBCmxCpG3uX8hcWNZdSzLwH5L03vMQ0/edit?usp=sharing)
 
 ### Invited Speakers
-- **Keynote**: Peter Jones, VAI (?)
-
+- Keynotes (3?)
+- Short faculty talks
+- Posters and lightning talks
+- Breakout sessions
 
 ### Organizing Team
 | **East Lansing** | **Grand Rapids** |
