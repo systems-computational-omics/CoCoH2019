@@ -11,12 +11,16 @@ Hosted by the [Systems Computational Omics group @MSU](https://github.com/system
 - Breakout sessions
 
 ### Organizing Team
-| **East Lansing** | **Grand Rapids** |
-|:------------- |:------------- |
-| George Mias | Jeremy Prokop  |
-| Arjun Krishnan | Bin Chen |
-| Janani Ravi | Keith English |
-| Carlo Piermarocchi | ... |
+**East Lansing** 
+* George Mias
+* Arjun Krishnan
+* Janani Ravi
+* Carlo Piermarocchi
+
+**Grand Rapids** <br>
+* Jeremy Prokop
+* Keith English
+* Bin Chen
 
 ### Sponsors
 - Non-profit that promotes DS (Bin Chen)
