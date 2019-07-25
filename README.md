@@ -1,6 +1,6 @@
 # Welcome to the 2019 Conference on Computational Health
 ## Bridging the gap between computational science and the clinic
-Join us on August 27th in Grand Rapids Secchia Center!
+### Join us on August 27th in Grand Rapids Secchia Center!
 
 Featuring Researchers from Michigan State University, Helen De Vos Children’s Hospital, Spectrum Health and the Van Andel Institute
 
@@ -12,7 +12,7 @@ Hosted by the [Systems Computational Omics group @MSU](https://github.com/system
 
 As we move towards clinical implementations of precision medicine, aided by now accessible omics technologies (genomics, transcriptomics, proteomics, metabolomics) and large clinical-grade data generation, computation is becoming an essential component of modern medicine that can revolutionize healthcare. The one-day Conference on Computational Health will showcase the newest research in computational biology and health at Michigan State University, from the Systems Computational Omics group, and highlight the interdisciplinary connections between computational and statistical work, and clinical research. The social program will focus on facilitating cross-disciplinary connections between computational and clinical/experimental researchers, that may lead to fruitful translational collaborations towards improving global healthcare. 
 
-### Confirmed Agenda
+## Confirmed Agenda
 - 3 Keynote Speakers!
   - Keith English (MSU Pediatrics and Human Development)
   - Surender Rajasekaran (Helen DeVos Children's Hospital/Spectrum Health)
@@ -35,7 +35,7 @@ As we move towards clinical implementations of precision medicine, aided by now 
 - Posters!
 - Research Networking Sessions!
 
-### Organizing Team
+## Organizing Team
 **East Lansing** 
 * George Mias
 * Arjun Krishnan
@@ -47,11 +47,11 @@ As we move towards clinical implementations of precision medicine, aided by now 
 * Keith English
 * Bin Chen
 
-### Sponsors
+## Sponsors
 - MSU College of Medicine
 - MSU College of Natural Science
 
-### Support or Contact
+## Support or Contact
 
 Questions on the upcoming event/sponsorship? <br>
 Please email [George Mias](mailto:gmias@msu.edu)
