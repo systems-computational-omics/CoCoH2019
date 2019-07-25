@@ -5,10 +5,10 @@ Hosted by the [Systems Computational Omics group @MSU](https://github.com/system
 
 ### Agenda
 - [Tentative Schedule](https://docs.google.com/document/d/1QkpOu86Mk-DqaBCmxCpG3uX8hcWNZdSzLwH5L03vMQ0/edit?usp=sharing)
-- Keynotes (3?)
-- Short faculty talks
-- Posters and lightning talks
-- Breakout sessions
+- 3 Keynote Speakers
+- 12 Short faculty talks
+- Posters
+- Research Networking Sessions
 
 ### Organizing Team
 **East Lansing** 
@@ -23,8 +23,8 @@ Hosted by the [Systems Computational Omics group @MSU](https://github.com/system
 * Bin Chen
 
 ### Sponsors
-- Non-profit that promotes DS (Bin Chen)
-- 
+- MSU College of Medicine
+- MSU College of Natural Science
 
 ### Support or Contact
 
