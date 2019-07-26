@@ -6,7 +6,7 @@ Featuring Researchers from Michigan State University, Helen De Vos Children’s 
 
 **Twitter**: #CoCoH2019
 
-Hosted by the [Systems Computational Omics group @MSU](https://github.com/systems-computational-omics/webpage)
+Hosted by the [Systems Computational Omics group @MSU](https://omics.natsci.msu.edu)
 
 <img src="SCO.png" alt="Systems Computational Omics at MSU" height="400"/>
 
