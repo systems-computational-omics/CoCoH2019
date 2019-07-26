@@ -50,6 +50,7 @@ As we move towards clinical implementations of precision medicine, aided by now 
 ## Sponsors
 - MSU College of Medicine
 - MSU College of Natural Science
+- Spectrum Health
 
 ## Support or Contact
 
