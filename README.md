@@ -48,7 +48,7 @@ As we move towards clinical implementations of precision medicine, aided by now 
 * Bin Chen
 
 ## Sponsors
-- MSU College of Medicine
+- MSU College of Human Medicine
 - MSU College of Natural Science
 - Spectrum Health
 
