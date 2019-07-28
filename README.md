@@ -4,6 +4,8 @@
 
 Featuring Researchers from Michigan State University, Helen De Vos Children’s Hospital, Spectrum Health and the Van Andel Institute
 
+**REGISTRATION IS OPEN** [Registration site](https://forms.gle/PKXyWrDuTAf3HPcn7)
+
 **Twitter**: #CoCoH2019
 
 Hosted by the [Systems Computational Omics group @MSU](https://omics.natsci.msu.edu)
