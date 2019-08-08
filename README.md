@@ -15,7 +15,8 @@ Hosted by the [Systems Computational Omics group @MSU](https://omics.natsci.msu.
 As we move towards clinical implementations of precision medicine, aided by now accessible omics technologies (genomics, transcriptomics, proteomics, metabolomics) and large clinical-grade data generation, computation is becoming an essential component of modern medicine that can revolutionize healthcare. The one-day Conference on Computational Health will showcase the newest research in computational biology and health at Michigan State University, from the Systems Computational Omics group, and highlight the interdisciplinary connections between computational and statistical work, and clinical research. The social program will focus on facilitating cross-disciplinary connections between computational and clinical/experimental researchers, that may lead to fruitful translational collaborations towards improving global healthcare. 
 
 ## Confirmed Agenda
-[Schedule PDF]("CoCoH2019_Schedule.pdf)
+<a href="https://github.com/systems-computational-omics/CoCoH2019/raw/master/CoCoH2019_Schedule.pdf" download="CoCoH2019_Schedule.pdf">Download Schedule PDF
+</a>
 - 3 Keynote Speakers!
   - Keith English (MSU Pediatrics and Human Development)
   - Surender Rajasekaran (Helen DeVos Children's Hospital/Spectrum Health)
