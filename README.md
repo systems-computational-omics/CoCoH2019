@@ -47,14 +47,15 @@ As we move towards clinical implementations of precision medicine, aided by now 
 * Carlo Piermarocchi
 
 **Grand Rapids** <br>
-* Jeremy Prokop
 * Keith English
+* Jeremy Prokop
 * Bin Chen
 
 ## Sponsors
 - MSU College of Human Medicine
 - MSU College of Natural Science
 - Spectrum Health
+- Institute for Quantitative Health Science and Engineering
 
 ## Support or Contact
 
