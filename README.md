@@ -4,7 +4,7 @@
 
 Featuring Researchers from Michigan State University, Helen De Vos Children’s Hospital, Spectrum Health and the Van Andel Institute
 
-**REGISTRATION IS OPEN** [Registration site](https://forms.gle/PKXyWrDuTAf3HPcn7)
+**REGISTRATION IS NOW CLOSED** 
 
 **Twitter**: #CoCoH2019
 
@@ -16,6 +16,8 @@ As we move towards clinical implementations of precision medicine, aided by now 
 
 ## Confirmed Agenda
 <a href="https://github.com/systems-computational-omics/CoCoH2019/raw/master/CoCoH2019_Schedule.pdf" download="CoCoH2019_Schedule.pdf">Download Schedule PDF
+</a>
+<a href="https://github.com/systems-computational-omics/CoCoH2019/raw/master/CoCoH2019_Posters.pdf" download="CoCoH2019_Posters.pdf">Download Poster List PDF
 </a>
 - 3 Keynote Speakers!
   - Keith English (MSU Pediatrics and Human Development)
@@ -36,7 +38,7 @@ As we move towards clinical implementations of precision medicine, aided by now 
   - Ana I Vazquez (Epidemiology & Biosatatistics, IQ Center)
   - Yuying Xie (CMSE)
 
-- Posters!
+- 17 Poster presentations!
 - Research Networking Sessions!
 
 ## Organizing Team
